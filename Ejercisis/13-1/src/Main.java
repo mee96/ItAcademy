@@ -5,4 +5,21 @@ void main() {
     // to see how IntelliJ IDEA suggests fixing it.
     System.out.println("Hello Worldddd!");
     // primer dia de java
+    //http://w3schools.com/java/java_syntax.asp web xulita per apendre
+
+    System.out.println("hola java");
+    /* no nomes serveis per strings, tambe fa operacions*/
+    System.out.println(3+3);
+
+    String name = "Carme";
+            System.out.println(name);
+
 }
+/*variables: strings, int, fliat, char , bolean
+
+string: cadena de text
+int: numeros sense decimals
+float: en decimals
+char: guarda caracters
+boolean: v o F
+ */
