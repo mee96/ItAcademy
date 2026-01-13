@@ -8,18 +8,29 @@ void main() {
     //http://w3schools.com/java/java_syntax.asp web xulita per apendre
 
     System.out.println("hola java");
-    /* no nomes serveis per strings, tambe fa operacions*/
+    // no nomes serveis per strings, tambe fa operacions
     System.out.println(3+3);
 
     String name = "Carme";
             System.out.println(name);
 
 }
-/*variables: strings, int, fliat, char , bolean
+
+
+/*APUNTS M1
+
+variables: strings, int, fliat, char , bolean
 
 string: cadena de text
-int: numeros sense decimals
-float: en decimals
-char: guarda caracters
+int:"integer" numeros sense decimals
+float:"floating point number" en decimals
+char:"character" guarda caracters
 boolean: v o F
+
+
+Comentaris Alfredo:
+
+Java ve de C++
+para definit una variable hay que declarar su tipo, si no ponemos el tipo
+delante no estamos declarando sino colocando un valor
  */
