@@ -15,7 +15,6 @@ public class M7Exercisi1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-
         System.out.print("Introdueix la primera nota: ");
         double nota1 = sc.nextDouble();
 
