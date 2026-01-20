@@ -50,7 +50,7 @@ public class M7Exercici5 {
                     if (tasques.isEmpty()) {
                         System.out.println("No hi ha tasques per eliminar.");
                     } else {
-                        System.out.println("\nQuina tasca vols eliminar?");
+                        System.out.println("Quina tasca vols eliminar?");
                         for (int i = 0; i < tasques.size(); i++) {
                             System.out.println((i + 1) + ". " + tasques.get(i));
                         }
