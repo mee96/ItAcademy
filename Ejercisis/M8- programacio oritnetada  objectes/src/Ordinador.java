@@ -1,4 +1,4 @@
-public class ORdinador {
+public class Ordinador {
 
     // Atributs
     private String marca;
